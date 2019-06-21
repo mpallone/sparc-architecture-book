@@ -1,0 +1,7 @@
+        .global main
+
+        a_r .req l0
+
+.main:
+        mov 3, a_r
+        nop
